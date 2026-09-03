@@ -5,7 +5,7 @@ b <- 1
 print(a)
 print(b)
 
-for(i in 3:n){
+for(i in 3 : n){
 c <- a+b
 print(c)
 a <- b
