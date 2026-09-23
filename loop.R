@@ -18,7 +18,7 @@ for (i in 1:20){
 # While loop...
 
 count <- 1
-while(count<=5){
+while(count <= 5){
   cat("count is :",count,"\n")
   count <- count+1
 }
