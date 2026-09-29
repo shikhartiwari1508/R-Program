@@ -22,3 +22,23 @@ while (i<=5){
   print(i)
   i <- i+1
 }
+
+
+
+
+# Find Smallest element in Vector
+
+numbers <- c(25, 10, 45, 5, 30)
+
+smallest <- min(numbers)
+
+print(smallest)
+
+
+# Find Largest element in Vector
+
+numbers <- c(25, 10, 45, 5, 30)
+
+largest <- max(numbers)
+
+print(largest)
