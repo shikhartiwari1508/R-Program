@@ -1,0 +1,22 @@
+<students>
+  <student>
+    <name>Rahul</name>
+    <marks>75</marks>
+  </student>
+  <student>
+    <name>Aman</name>
+    <marks>82</marks>
+  </student>
+  <student>
+    <name>Shikhar</name>
+    <marks>90</marks>
+  </student>
+  <student>
+    <name>Ravi</name>
+    <marks>65</marks>
+  </student>
+  <student>
+    <name>Ankit</name>
+    <marks>78</marks>
+  </student>
+</students>
