@@ -1,4 +1,4 @@
-#Array using Multiple Values
+# Array using Multiple Values...
 
 marks <- array(
   c(70, 80, 65, 90, 75, 85),
