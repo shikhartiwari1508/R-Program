@@ -1,5 +1,5 @@
 # An Automorphic Number is a number whose square ends with the number itself.
-#Example: \(25^2 = 625\). Since 625 ends with 25, it is an automorphic number.
+# Example: \(25^2 = 625\). Since 625 ends with 25, it is an automorphic number.
 
 
 num <- 25
