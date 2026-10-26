@@ -212,7 +212,7 @@ Please keep contributions readable, properly named, and easy to understand.
 
 ## 👨‍💻 Author
 
-**Mr. Shikhar Tiwari**
+**Shikhar Tiwari**
 
 Aspiring programmer exploring R programming, data analysis, statistical computing, and machine learning.
 
