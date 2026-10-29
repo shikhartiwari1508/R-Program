@@ -1,6 +1,6 @@
 # 📊 R Programming Repository
 
-### A Collection of R Programs, Statistical Methods, Data Structures & Machine Learning
+### A Collection of R Programs, Statistical Methods, Data Structures & Machine Learning, Problem Solving
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-R-blue?style=for-the-badge&logo=r" alt="R Language">
