@@ -1,4 +1,4 @@
-# Program to calculate the average of three numbers
+# Program to calculate the average of three numbers...
 
 num1 <- as.numeric(readline("Enter first number: "))
 num2 <- as.numeric(readline("Enter second number: "))
