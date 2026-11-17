@@ -1,4 +1,4 @@
-# Program to find the factorial of a number
+# Program to find the factorial of a number...
 
 num <- as.integer(readline("Enter a number: "))
 
