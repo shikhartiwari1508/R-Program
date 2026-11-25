@@ -40,3 +40,15 @@ print(sort(numbers))
 numbers <- c(10, 20, 30, 40, 50)
 
 print(rev(numbers))
+
+
+
+# Program to find the largest element in a vector
+
+numbers <- c(10, 25, 45, 15, 30)
+
+cat("Numbers:", numbers, "\n")
+
+largest <- max(numbers)
+
+cat("Largest number is:", largest)
